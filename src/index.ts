@@ -1,4 +1,4 @@
 import TestScreen from './TestScreen';
-import TestScreen2 from './TestScreen2';
+import ButtonsScreen from './ButtonsScreen';
 
-export {TestScreen, TestScreen2};
+export {TestScreen, ButtonsScreen};
