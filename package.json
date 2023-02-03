@@ -14,6 +14,9 @@
     "react": "18.2.0",
     "react-native": "0.71.2"
   },
+  "publishConfig": {
+    "tw-francisco:registry": "https://npm.pkg.github.com"
+  },
   "devDependencies": {
     "@babel/core": "^7.20.0",
     "@babel/preset-env": "^7.20.0",
